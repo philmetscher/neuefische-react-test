@@ -113,7 +113,7 @@ Can we use localStorage?
 
 I'm so stuck, and I don't know how to get started!
 
-> Take a break, you have all the information and skills you need to solve this. Go through lecture slides and previous labs. Think of these three questions: 1. What is the apps component structure? 2. What components should include logic? 3. What state is only local and what state/setters do I have to prop drill?
+> Take a break, you have all the information and skills you need to solve this. Go through what you've learned in your course. Think of these three questions: 1. What is the apps component structure? 2. What components should include logic? 3. What state is only local and what state/setters do I have to prop drill?
 
 How will you judge our solutions?
 
