@@ -1,4 +1,4 @@
-# Salt test
+# &lt;/salt&gt;
 
 ## React - Salt Instructors & Developers
 
