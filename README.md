@@ -6,7 +6,7 @@ Us instructors have so much todo so we need help keeping track on all developers
 
 We have supplied you with a backend, so this is a frontend test only. You need to follow the specifications as detailed below. Use the screenshot at the bottom of this page as a wireframe.
 
-This weekend test has a very long list of specifications which might make it seem larger than it actually is. Focus on completing one specification at a time. Let both the tests &
+This weekend test has a very long list of specifications which might make it seem larger than it actually is. Focus on completing one specification at a time.
 
 We recommend that your first command is:
 
