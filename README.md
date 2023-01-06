@@ -89,7 +89,10 @@ When correcting your test our test suite will contain more tests than the one th
 
 - Check that you have no console errors.
 - Make sure it runs from a clean `npm i && npm start` in both the `server` and the `frontend` folder.
-- Hand in the content of your `frontend` folder (except for the node_modules) in a folder named `saltBootcamp` in your weekend test folder.
+
+**No need to do the following, just send us a link to your repo**
+> - Hand in the content of your `frontend` folder (except for the node_modules) in a folder named `saltBootcamp` in your weekend test folder.
+
 
 Make it work, and then if you have time, make it great!
 
